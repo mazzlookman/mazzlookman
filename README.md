@@ -1,5 +1,5 @@
 #### [Hi, I'm Mohammad Lukman Aqib 👋. I'm looking for a job as a Backend Developer 💻](https://github.com/mazzlookman/mazzlookman)
-My passion in Backend Developer, strong in languages: `Go-Lang` and `NodeJS (with JavaScript)`. I'm also strong in `Docker`, `MySQL`, and `Git`. <br>
+My passion in Backend Developer, strong in languages: `Go-Lang`, `JavaScript`, and `NodeJS`. I'm also strong in `Docker`, `MySQL`, and `GIT`. <br>
 <br>I am a person who is consistent in learning, likes to learn new knowledge, is quick in understanding what is learned, likes critical thinking, teamwork, and problem solving. <br>
 
 - ✉ Contact me: [mohammadlukmanaqib@gmail.com](mailto:mohammadlukmanaqib@gmail.com).
